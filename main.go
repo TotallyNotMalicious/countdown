@@ -8,7 +8,7 @@ import (
 func main() {
 	var input int
 
-	fmt.Print("Time To Count Down: ")
+	fmt.Print("Number Of Seconds To Count Down: ")
 	fmt.Scan(&input)
 	fmt.Println()
 
